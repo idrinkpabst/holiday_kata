@@ -31,14 +31,6 @@ group :development do
   gem 'pry', '0.9.10'
   gem 'pry-rails', '0.2.2'
   gem 'pry-debugger', '0.2.1'
-  gem 'awesome_print', '1.1.0'
-  gem 'hirb', '0.7.0'
-  gem 'sextant', '0.2.3'
-  gem 'better_errors', '0.3.2'
-  gem 'binding_of_caller', '0.6.8'
-  gem 'meta_request',  '0.2.1'
-  gem 'letter_opener', '1.0.0'
-  gem 'meta_request', '0.2.1'
 end
 
 # To use ActiveModel has_secure_password

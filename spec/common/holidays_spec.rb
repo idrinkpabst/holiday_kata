@@ -11,9 +11,8 @@ require 'spec_helper'
 # Thanksgiving Day:               Thursday, Nov. 28, 2013
 # Christmas:                      Wednesday, Dec. 25, 2013
 
-describe 'Holidays' do
+
+describe Holidays do
+  
 
 end
-
-
-

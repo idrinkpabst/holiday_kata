@@ -9,7 +9,31 @@ class Holidays
 # Labor Day:                    first Monday of September
 # Thanksgiving Day:             fourth Thursday of November
 # Christmas Day:                December 25th
+# Vote for Jake - Best Presentation
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  def best_presentation?(presenter)
+    presenter == "Jake"
+  end
 
 end
